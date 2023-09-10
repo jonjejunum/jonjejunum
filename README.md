@@ -8,8 +8,8 @@ This profile is for some personal projects projects, which will tend to overlap 
 
 ## My Projects
 
-- [Fantasy Premier League Automation and Optimization] (link to Project 1)
-
+- Fantasy Premier League Automation and Optimization
+  
 ## Contact Me
 
 You can reach me at jhackett222@gmail.com
