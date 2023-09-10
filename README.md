@@ -4,7 +4,7 @@
 
 I’m interested in developing my data science and machine learning skills. 
 
-This profile is for some personal projects, which will tend to overlap with other subjects that I care about (e.g. sports, politics)
+This profile is for some personal projects, which will tend to overlap with other subjects that I care about (e.g. science, sports, politics)
 
 ## My Projects
 
