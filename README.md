@@ -1,28 +1,13 @@
-### Hi, I'm Jon 👋
+## About Me
 
-I build personal data science projects. They tend to overlap with the things I care about: **sport, science and
-politics**. I like taking a messy public API, turning it into clean data, and shipping something people actually use.
+👋 Hi, I’m @jonjejunum
 
----
+This profile is for some personal data science projects, which will tend to overlap with other subjects that I care about (e.g. science, sports, politics)
 
-#### ⚽ Featured: RCBOMM draft league hub
+## My Projects
 
-<a href="https://github.com/jonjejunum/rcbomm-fpl">
-  <img src="https://raw.githubusercontent.com/jonjejunum/rcbomm-fpl/main/docs/table.png" alt="RCBOMM league hub screenshot" width="720">
-</a>
+- Fantasy Premier League Automation and Optimization
+  
+## Contact Me
 
-A live stats site for my Premier League Draft league: title race, head-to-heads, draft report cards and an
-expected-points "luck" model.
-**[Live site](https://rcbomm-fpl.vercel.app)** · **[Source](https://github.com/jonjejunum/rcbomm-fpl)**
-
-- Python pipeline on a weekly GitHub Actions schedule. It only commits, and so only redeploys, when the data changes
-- Next.js static site on Vercel with hand-built SVG charts (colour-blind-safe, light and dark)
-- Fork it for your own league: one variable to change
-
-#### 🧰 What I work with
-
-`Python` · `pandas` · `Jupyter` · `SQL` · `Tableau` · `TypeScript` · `Next.js` · `GitHub Actions`
-
-#### 📫 Get in touch
-
-jhackett222@gmail.com. Happy to chat about data projects, fantasy football or anything above.
+You can reach me at jhackett222@gmail.com
