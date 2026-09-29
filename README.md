@@ -15,7 +15,7 @@ A live stats site for my Premier League Draft league: title race, head-to-heads,
 expected-points "luck" model.
 **[Live site](https://rcbomm-fpl.vercel.app)** · **[Source](https://github.com/jonjejunum/rcbomm-fpl)**
 
-- Python pipeline on a GitHub Actions schedule. It only commits, and so only redeploys, when the data changes
+- Python pipeline on a weekly GitHub Actions schedule. It only commits, and so only redeploys, when the data changes
 - Next.js static site on Vercel with hand-built SVG charts (colour-blind-safe, light and dark)
 - Fork it for your own league: one variable to change
 
